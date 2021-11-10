@@ -1,0 +1,4 @@
+There were 1 occurances of ACCAAACTATAGAAT.
+There were 1 occurances of CTCTTAATATTTATGAAGAAGAACATGGT.
+There were 8 occurances of GCCTGGGTGACAGAGTGAGACCCTGTCTC.
+There were 12 occurances of AATAGCTAACA.
